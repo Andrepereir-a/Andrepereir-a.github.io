@@ -55,7 +55,7 @@ span.size {
 
 @media screen and (min-width: 1px) and (max-width: 900px){
   body {
-      .size{
+      .size2{
     font-size: 9px;
   }
   }
