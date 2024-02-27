@@ -44,3 +44,19 @@ span.size {
 .text-center {
     height: 85px;
 }
+.carousel-caption {
+    background-color: 	#000000;
+  color: white;
+}
+
+#carousel-141767{
+ width:65%;
+}
+
+@media screen and (min-width: 1px) and (max-width: 900px){
+  body {
+      .size{
+    font-size: 9px;
+  }
+  }
+}
